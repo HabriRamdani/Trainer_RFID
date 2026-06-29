@@ -1,6 +1,9 @@
 # **TRAINER RFID**
 
-# Cara Download Library RFID MRC522
+# LINK GOOGLE SHEET
+https://docs.google.com/spreadsheets/d/1b_C_tintcrtk5YZKJtBlI0598XNUCiaj8hEwyooiy30/edit?gid=86065589#gid=86065589
+
+# CARA DOWNLOAD LIBRARY RFID MRC522
 https://github.com/OSSLibraries/Arduino_MFRC522v2/tree/f8b1eeef77176dfa064efea466bed13919dc5efc 
 
 1. Buka link github yang telah terlampir diatas.
