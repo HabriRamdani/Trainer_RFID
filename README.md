@@ -10,10 +10,10 @@ https://github.com/OSSLibraries/Arduino_MFRC522v2/tree/f8b1eeef77176dfa064efea46
   <img width="1919" height="925" alt="image" src="https://github.com/user-attachments/assets/85d5df1b-8873-4663-a220-13ddda8a999d" />
   
 2. Klik bagian Releases
-  <img width="374" height="178" alt="image" src="https://github.com/user-attachments/assets/c3cf06e6-3ee8-4734-a016-cbb03c5f907e" />
+  <img width="1901" height="928" alt="Screenshot 2026-06-30 095500" src="https://github.com/user-attachments/assets/d64f80f6-b3d9-4d80-b1f9-bd01bc739ba3" />
 
 3. Download file dengan format .zip pada versi 2.0.6
-   <img width="1420" height="458" alt="image" src="https://github.com/user-attachments/assets/e441e7b1-7049-46d8-be38-1fae09ad23c6" />
+   <img width="1918" height="926" alt="Screenshot 2026-06-30 095629" src="https://github.com/user-attachments/assets/299bf490-b2dd-4ff8-bed7-fbd6ca1056a4" />
  
 # CARA DOWNLOAD FILE DARI GITHUB
 1. Pilih file yang ingin di download. Misal code untuk Jobsheet 1, klik folder Jobsheet Code, lalu klik folder JOBSHEET 1.
